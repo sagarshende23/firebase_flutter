@@ -3,6 +3,21 @@
   Flutter Firebase
   <br>
 </h1>
+<p align="center">
+   <a href="https://github.com/sagarshende23">
+    <img src="https://img.shields.io/badge/Github-Sagar Shende-black.svg?style=for-the-badge">
+  </a>
+  <a href="https://github.com/sagarshende23/firebase_flutter/stargazers">
+    <img src="https://img.shields.io/github/stars/sagarshende23/Simple_calculator_flutter.svg?style=for-the-badge">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.alltechsavvy.calculator">
+    <img src="https://img.shields.io/badge/Google-PlayStore-green.svg?style=for-the-badge">
+  </a>
+   <a href="https://www.youtube.com/channel/UCEW4YMELtVeLjcpAzevNabg">
+    <img src="https://img.shields.io/badge/YouTube-AllTechSavvy-red.svg?style=for-the-badge">
+  </a>
+ 
+</p>
 
 ## 📱 Screenshots #
 
